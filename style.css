@@ -3,3 +3,40 @@ body {
   height: 100%;
   margin: 0;
 }
+/* Header */
+h1 {
+  text-align: center;
+}
+/* Navigation Bar */
+nav {
+  text-align: center;
+}
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color:rgb(190, 235, 245);
+}
+/* Image and Caption */
+figure {
+  text-align: center;
+}
+figure figcaption {
+  font-size: 12px
+}
+/* Paragraphs */
+section#featured-property p {
+  text-align: center;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+/* Footer */
+section#details div {
+  float: left;
+  background-color:lightsteelblue;
+  text-align: center;
+  width: 25%;
+}
+]
